@@ -1,1 +1,11 @@
 Six impossible things before breakfast:
+There's a potion that can make you shrink.
+And a cake that can make you grow.
+Animals can talk.
+Cats can dissappear
+There is a place called Wonderland
+<<<<<<< d65889a4a16550ac8fac0ba53bac0b16e2492326
+blubb
+=======
+I can slay the Jabberwocky
+>>>>>>> 6th feature
